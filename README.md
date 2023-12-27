@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shubham Pokale</h1>
-<h3 align="center">Reserved Aficionado</h3>
+<h3 align="center">A Reserved Tech Aficionado</h3>
 
-- Post Graduate Diploma in Advanced Computing [CDAC](https://cdac.in/)
+- I am Currently pursuing my Post Graduation Diploma in Advanced Computing from Centre for development of Advaned Computing, Pune [CDAC](https://cdac.in/)
 
-- 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring**
+- 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring, DSA**
 
-- 👯 I’m looking to collaborate on **A Full stack web development project**
+- 👯 I’m looking to collaborate on any **full stack web development project**
 
-- 🤝 I’m looking for help with **Spring boot and Javascript Libraries**
+- 🤝 I’m looking for help with **My PGDAC Major Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPokale](https://github.com/ShubhamPokale)
 
 - 📝 I regularly write articles on [https://doingmystevejobs.hashnode.dev/](https://doingmystevejobs.hashnode.dev/)
 
-- 💬 Ask me about **Java, C++, SDLC**
-
 - ###  I’m willing to discuss...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="25px" /> any weird or interesting idea
 
-###   Ask me about ... - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
+###  💬 Ask me about ... <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
 - 📫 How to reach me **shubham.pokale2001@gmail.com**
 
