@@ -15,6 +15,12 @@
 
 - 💬 Ask me about **Java, C++, SDLC**
 
+- ###  I’m willing to discuss...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="25px" /> any weird or interesting idea
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
+
 - 📫 How to reach me **shubham.pokale2001@gmail.com**
 
 - ⚡ Fun fact **I am an Ambidextrous**
