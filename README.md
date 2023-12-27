@@ -42,6 +42,22 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
+  <a href="https://www.linkedin.com/in/shubham-pokale/">
+    <img align="left" alt="Shubham Pokale | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/pragmaticPokale/">
+    <img align="left" alt="Shubham Pokale | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pragmaticPokale/">
+    <img align="left" alt="Shubham Pokale | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:shubham.pokale2001@gmail.com">
+    <img align="left" alt="Shubham Pokale | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 -------
