@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Pokale</h1>
 <h3 align="center">A Reserved Tech Aficionado</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- I am a Computer Engineer currently pursuing my Post Graduation in Development of Advanced Computing from Centre for development of Advaned Computing, CDAC
 
-- I am Currently pursuing my Post Graduation in Development of Advanced Computing from Centre for development of Advaned Computing, Pune [CDAC](https://cdac.in/)
+##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
+
+
 
 - 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring, DSA**
 
@@ -15,7 +19,7 @@
 
 - ###  I’m willing to discuss...<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="25px" /> any weird or interesting idea
 
-###  💬 Ask me about ... <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
+###  💬 Ask me about ... <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, always happy to help <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" />
 
 - 📫 How to reach me **shubham.pokale2001@gmail.com**
 
