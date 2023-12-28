@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Pokale</h1>
 <h3 align="center">A Reserved Tech Aficionado</h3>
 
-- I am Currently pursuing my Post Graduation Diploma in Advanced Computing from Centre for development of Advaned Computing, Pune [CDAC](https://cdac.in/)
+- I am Currently pursuing my Post Graduation in Development of Advanced Computing from Centre for development of Advaned Computing, Pune [CDAC](https://cdac.in/)
 
 - 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring, DSA**
 
