@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham Pokale</h1>
-<h3 align="center">A Reserved Tech Aficionado</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="windshowling.png">
 - I am a Computer Engineer currently pursuing my Post Graduation in Development of Advanced Computing from Centre for development of Advaned Computing, CDAC
 
 ##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
