@@ -1,5 +1,5 @@
  <p><img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey%20%F0%9F%91%8B,%20I%27am%20Shubham%20Pokale"> </p>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey%20%F0%9F%91%8B,%20I%27m%20Shubham%20Pokale"> </p>
 <!-- <img src="windshowling.png"> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  I am a Computer Engineer currently pursuing my Post Graduation in Development of Advanced Computing from Centre for development of Advaned Computing, CDAC
