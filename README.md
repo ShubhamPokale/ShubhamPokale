@@ -8,7 +8,7 @@
 ##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
 
 
- Currently, I am an Appertice Software Engineer at thinkschool, an initiative of thinkbridge. 
+ Currently, I am an <h4>Appertice Software Engineer</h4> 👨‍🚀 at thinkschool, an initiative by thinkbridge. 
 
    <img src="thinkbridge_banner.jpg" alt="thinkbridge batch" style="width: 100%; border-radius: 20px;"> 
 
