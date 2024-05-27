@@ -10,9 +10,7 @@
 
  Currently, I am an Appertice Software Engineer at thinkschool, an initiative of thinkbridge. 
 
-  <img src="thinkbridge_logo.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> 
- 
-  <img src="thinkbridge_banner.jpg" alt="thinkbridge batch" style="width: 10%; border-radius: 10px;"> 
+   <img src="thinkbridge_banner.jpg" alt="thinkbridge batch" style="width: 40%; border-radius: 10px;"> 
 
 - 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring, DSA**
 
