@@ -10,7 +10,7 @@
 
  Currently, I am an Appertice Software Engineer at thinkschool, an initiative of thinkbridge. 
 
- 
+  <img src="thinkbridge_logo.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> 
  
 
 
