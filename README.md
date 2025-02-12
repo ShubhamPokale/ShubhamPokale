@@ -8,7 +8,7 @@
 ##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
 
 
- Currently, I am currently learning the art of software development as an <b><h3>Apprentice Software Engineer 👨‍🚀</h3></b>  at thinkschool, an initiative by thinkbridge. 
+ Currently, I am currently working as <b><h3>Associate Software Engineer 👨‍🚀</h3></b>  at thinkbridge, at thinkbridge. 
 
    <img src="thinkbridge_banner.jpg" alt="thinkbridge batch" style="width: 100%; border-radius: 20px;"> 
 
