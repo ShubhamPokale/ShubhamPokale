@@ -14,6 +14,8 @@
 
 - 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring, DSA**
 
+![image](https://github.com/user-attachments/assets/2209dc5e-3f9a-445e-aa40-6f915f4c2cfb)
+
 - 👯 I’m looking to collaborate on any **full stack web development project**
 
 - 🤝 I’m looking for help with **My PGDAC Major Project**
