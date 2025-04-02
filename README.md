@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on any **full stack web development project**
 
-- 🤝 I’m looking for help with **My PGDAC Major Project**
+- 🤝 I’m open to work  
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPokale](https://github.com/ShubhamPokale)
 
