@@ -2,23 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey%20%F0%9F%91%8B,%20I%27m%20Shubham%20Pokale"> </p>
 <!-- <img src="windshowling.png"> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- I am a Computer Engineering Graduate with a Post Graduate Diploma in Development of Advanced Computing from Centre for development of Advaned Computing, CDAC
+ I am an AI Solutions Software Engineer with a Post Graduate Diploma in Development of Advanced Computing from CDAC Pune.
 
 
 ##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
 
 
- Currently, I am currently working as <b><h3>Associate Software Engineer 👨‍🚀</h3></b>  at thinkbridge, at thinkbridge. 
+ Currently, I am currently working as an <b><h3>AI Intern</h3></b> at Appzlogic Mobility Solutions. 
 
-   <img src="thinkbridge_banner.jpg" alt="thinkbridge batch" style="width: 100%; border-radius: 20px;"> 
+   <img src="appzlogc.png" alt="appzlogic" style="width: 100%; border-radius: 20px;"> 
 
-- 🌱 I’m currently learning **Microsoft .Net, Javascript, React.js, Spring, DSA**
+- 🌱 I’m currently learning the modern AI stack, open-source contributions, AI agents and system design.
 
-![image](https://github.com/user-attachments/assets/2209dc5e-3f9a-445e-aa40-6f915f4c2cfb)
+- 👯 I’m looking to collaborate on any ** open-source project**
 
-- 👯 I’m looking to collaborate on any **full stack web development project**
-
-- 🤝 I’m open to work  
+- 🤝 I’m open to work on any interesting project
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPokale](https://github.com/ShubhamPokale)
 
