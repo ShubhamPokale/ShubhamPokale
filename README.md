@@ -55,26 +55,24 @@ Currently Exploring:
 
 ## 🏆 GSSoC Badges
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
+<img src="ai.png" width="140"/><br/>
+Explorer
+</td>
 
-<!-- Replace badge image links with your actual badge links -->
+<td align="center">
+<img src="open.png" width="140"/><br/>
+Contributor
+</td>
 
-<a href="https://gssoc.girlscript.tech/">
-  <img src="open.png"/>
-</a>
-
-<a href="https://gssoc.girlscript.tech/">
-  <img src="ai.png"/>
-</a>
-
-<a href="https://gssoc.girlscript.tech/">
-  <img src="contributor.png"/>
-</a>
-
-</div>
-
-<br>
-
+<td align="center">
+<img src="contributor.png" width="140"/><br/>
+Champion
+</td>
+</tr>
+</table>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shubhampokq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.instagram.com/doingmystevejobs/" /></a></p><br><br>
