@@ -5,7 +5,7 @@
  I am an AI Solutions Software Engineer with a Post Graduate Diploma in Development of Advanced Computing from CDAC Pune.
 
 
-##### ______________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>______________________________________________
+##### __________________________________________________________ <a href= "https://cdac.in/" > <img src="CDAC_M.png" alt="CDAC Badge" style="width: 10%; border-radius: 10px;"> </a>__________________________________________________________
 
 
  Currently, I am currently working as an <b><h3>AI Intern</h3></b> at Appzlogic Mobility Solutions. 
